@@ -4,7 +4,7 @@
 - 🌱 Trained in electronics I’m currently learning for a Computer Science Degree. Already a software developer. #living-life-backwards.
       most of my life has been self directed learning.
 - 💞️ I’m building a knowlege portfolio, something which I have neglected in the past.
-- 📫 How to reach me ... (to be edited ... soon).
+- 📫 How to reach me ... .
 
 <!---
 richard-porteous/richard-porteous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
