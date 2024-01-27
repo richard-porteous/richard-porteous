@@ -3,7 +3,7 @@
 - 🌱 I trained in electronics. Have worked as a software developer for a few decades. #living-life-backwards.
       most of my life has been self-directed learning. 
 - 📫 How to reach me 65298902+richard-porteous@users.noreply.github.com
-- 👀 Check out the blog richard-porteous.github.io
+- 👀 Check out the blog [](richard-porteous.github.io)
 
 <!---
 richard-porteous/richard-porteous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
